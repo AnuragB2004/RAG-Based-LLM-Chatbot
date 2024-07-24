@@ -86,25 +86,6 @@ The project relies on the following libraries and tools:
 - Azure Cognitive Services
 - Other libraries as specified in `requirements.txt`
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes.
-4. Commit your changes:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-5. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-6. Open a pull request.
 
 ## License
 
@@ -113,7 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Thanks to all the contributors and open-source projects that made this project possible.
-
----
-
-Feel free to modify any sections or add more details as needed. If there are any specific details or sections you'd like to include based on the contents of the notebook, please let me know!
