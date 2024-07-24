@@ -10,7 +10,6 @@ This repository contains the code and resources for a chatbot project, implement
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
